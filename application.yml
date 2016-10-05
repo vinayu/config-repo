@@ -1,5 +1,5 @@
 fortune:
-  fallbackFortune: Today is your lucky day!
+  fallbackFortune: Today is not your lucky day!
 
 eureka:
   instance:
