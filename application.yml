@@ -1,7 +1,7 @@
 fortune:
   fallbackFortune: Today is not your lucky day!
   
- server:
+server:
   port: 8082
   ssl:
     enabled: true
