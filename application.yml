@@ -5,9 +5,9 @@ server:
   port: 8082
   ssl:
     enabled: true
-    key-store: classpath:client.jks
+    key-store: client.jks
     key-store-password: s3cr3t
-    trust-store: classpath:client.jks
+    trust-store: client.jks
     trust-store-password: s3cr3t
 
 #eureka:
