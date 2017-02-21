@@ -5,10 +5,10 @@ server:
   port: 8082
   ssl:
     enabled: true
-    key-store: https://github.com/vinayu/config-repo/blob/master/search-path/client.jks
+    key-store: client.jks
     key-store-password: s3cr3t
     key-store-type: JKS
-    trust-store: https://github.com/vinayu/config-repo/blob/master/search-path/client.jks
+    trust-store: client.jks
     trust-store-password: s3cr3t
     trust-store-type: JKS
 
